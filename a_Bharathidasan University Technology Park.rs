@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Bharathidasan University Technology Park</name>
+   <tag></tag>
+   <elementGuidId>094a0dbc-cae4-442b-ae1e-44ef22d37031</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div[2]/ul/li[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Bharathidasan University Technology Park&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e8a66af3-4d1f-491e-903c-2a565f8e8f24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>linktext</value>
+      <webElementGuid>fda137e4-b07f-4023-a7a2-2d00ddb7b598</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>//www.bdu.ac.in/uc.php</value>
+      <webElementGuid>09f5e5c3-173e-4063-a167-afb47a2e255a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bharathidasan University Technology Park</value>
+      <webElementGuid>99c2eebd-5c46-4c39-94c6-f1c1722c297e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/div[@class=&quot;wrapper row3&quot;]/main[@class=&quot;hoc container clear&quot;]/div[@id=&quot;wrapper&quot;]/div[@class=&quot;content three_quarter&quot;]/ul[@class=&quot;list-group1&quot;]/li[@class=&quot;list-group1-item&quot;]/a[@class=&quot;linktext&quot;]</value>
+      <webElementGuid>ff583ac9-b4f2-43a0-9c55-08286c0c55bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[2]/ul/li[5]/a</value>
+      <webElementGuid>67f17a84-5f1b-44a8-8338-ac73394c6124</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Bharathidasan University Technology Park')]</value>
+      <webElementGuid>3e408754-5036-4905-8de4-a356da72048a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bioinorganic Chemistry'])[1]/following::a[1]</value>
+      <webElementGuid>9b200e46-f6f4-498b-b02d-7a68dc108a53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bharathidasan Studies'])[1]/following::a[2]</value>
+      <webElementGuid>559a3898-011b-495a-8668-68a7cbbeaf4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Canadian Studies'])[1]/preceding::a[1]</value>
+      <webElementGuid>14a13dd5-c206-436e-b63d-0da049dc0719</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Central Workshop'])[1]/preceding::a[2]</value>
+      <webElementGuid>23dd90ea-2269-4bdf-b185-064deb215b56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bharathidasan University Technology Park']/parent::*</value>
+      <webElementGuid>2988948b-c657-443f-8005-1b0d9c4d5fbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '//www.bdu.ac.in/uc.php')]</value>
+      <webElementGuid>7b6bcb0e-0a57-411c-a514-c3c4b65c20d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div[2]/ul/li[5]/a</value>
+      <webElementGuid>da3daa83-7272-4d62-b1d9-d5c5cf46e98b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '//www.bdu.ac.in/uc.php' and (text() = 'Bharathidasan University Technology Park' or . = 'Bharathidasan University Technology Park')]</value>
+      <webElementGuid>d795ba18-1e31-42fc-8686-af211664adfc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

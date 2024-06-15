@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Minutes of the Meeting (28102021)</name>
+   <tag></tag>
+   <elementGuidId>fc42b1e9-757d-4461-b717-61e86b1fc54e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Minutes of the Meeting (28/10/2021)')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Minutes of the Meeting (28/10/2021)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ec936a18-bc59-4f36-b50f-f156f9c8801d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>87a315d2-eb36-4d1f-aec5-be75c01abf97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>../assets/docs/iqac/minutes/IQAC_Meeting_28_10_2021.pdf</value>
+      <webElementGuid>79ab68a6-a9ef-47d1-abeb-0f104ba33189</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>32334c34-aa7d-4202-bde5-7069d1e934ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Minutes of the Meeting (28/10/2021)</value>
+      <webElementGuid>484d8b01-ce6c-47a4-b61f-22efbf043804</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;container-lg pt-2&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-bordered&quot;]/tbody[1]/tr[1]/td[1]/a[@class=&quot;link&quot;]</value>
+      <webElementGuid>a2d928db-ca51-4dba-98ba-d7f825f3621d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Minutes of the Meeting (28/10/2021)')]</value>
+      <webElementGuid>8efe5d43-ced0-453c-92fa-c8f5dd0919cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action Taken Report'])[3]/following::a[1]</value>
+      <webElementGuid>35bfe096-2ce5-426c-9f41-83c41a44f39e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minutes of the IQAC Meeting'])[3]/following::a[1]</value>
+      <webElementGuid>51b0d3be-4b61-45ba-929a-c731f65d3bdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minutes of the IQAC Meeting'])[4]/preceding::a[2]</value>
+      <webElementGuid>92888290-2590-463d-8f95-a8a65b20cd5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '../assets/docs/iqac/minutes/IQAC_Meeting_28_10_2021.pdf')]</value>
+      <webElementGuid>969db5c0-610a-4d38-980c-06199924850c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/table/tbody/tr/td/a</value>
+      <webElementGuid>f8e14f22-7a69-4d90-965c-cd09d1e287ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '../assets/docs/iqac/minutes/IQAC_Meeting_28_10_2021.pdf' and (text() = ' Minutes of the Meeting (28/10/2021)' or . = ' Minutes of the Meeting (28/10/2021)')]</value>
+      <webElementGuid>94edd4d9-5bb7-4355-8413-0b84a5caebf1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

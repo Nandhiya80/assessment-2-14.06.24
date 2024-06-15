@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Anti-Ragging Cell</name>
+   <tag></tag>
+   <elementGuidId>d960b6f6-0fb1-43a2-b55e-de290e4e7386</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div[2]/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Anti-Ragging Cell&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bd68b3ab-d13b-46bd-84d4-80605c667ade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>linktext</value>
+      <webElementGuid>45244f96-a628-48d1-842f-f8fac8ab5f4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>//www.bdu.ac.in/cells/anti-ragging-cell/</value>
+      <webElementGuid>846fbb72-09a8-426c-8470-8732dd770cb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Anti-Ragging Cell</value>
+      <webElementGuid>fc5f987f-3c0b-4c80-b5fe-8c07a1b53023</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/div[@class=&quot;wrapper row3&quot;]/main[@class=&quot;hoc container clear&quot;]/div[@id=&quot;wrapper&quot;]/div[@class=&quot;content three_quarter&quot;]/ul[@class=&quot;list-group1&quot;]/li[@class=&quot;list-group1-item&quot;]/a[@class=&quot;linktext&quot;]</value>
+      <webElementGuid>b30214f5-f144-4609-8b06-eb131b61e317</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[2]/ul/li[3]/a</value>
+      <webElementGuid>6db718ee-e388-4646-afd7-51e45d844408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Anti-Ragging Cell')]</value>
+      <webElementGuid>6cda2bc3-d495-48ae-a6a3-6a3f0f5f9cc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anti-Harassment (General) Cell'])[1]/following::a[1]</value>
+      <webElementGuid>c1094ea0-2589-4c37-b41b-f795c72f291f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anti-Drugs Committee'])[1]/following::a[2]</value>
+      <webElementGuid>31c34bb5-bf12-4689-a413-598d2848079e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anti-Sexual Harassment Cell'])[1]/preceding::a[1]</value>
+      <webElementGuid>459cbc95-8592-4103-9723-7aa74d9e80f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bharathidasan University Entrepreneurship, Innovation and Career Hub (BECH)'])[1]/preceding::a[2]</value>
+      <webElementGuid>0f398649-933d-4029-a60c-54b1c0b3e8e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Anti-Ragging Cell']/parent::*</value>
+      <webElementGuid>0aaad4a8-a192-4bd8-b243-6e7b59c9f339</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '//www.bdu.ac.in/cells/anti-ragging-cell/')]</value>
+      <webElementGuid>ac311ebe-cc8c-448b-a9f1-ca01f74e5b43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div[2]/ul/li[3]/a</value>
+      <webElementGuid>bbffd6d2-5c68-43ba-a616-d6b0107d3393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '//www.bdu.ac.in/cells/anti-ragging-cell/' and (text() = 'Anti-Ragging Cell' or . = 'Anti-Ragging Cell')]</value>
+      <webElementGuid>42136ef1-2386-42b1-848b-80820070a634</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

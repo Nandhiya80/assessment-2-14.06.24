@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Bharathidasan Studies</name>
+   <tag></tag>
+   <elementGuidId>f2057601-2194-4cb6-9190-08dbf39bebba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div[2]/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Bharathidasan Studies&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>670b8011-708a-4074-a6a7-547a1a39fb83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>linktext</value>
+      <webElementGuid>175a20e3-5191-49ce-ba9b-1e6998932bdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>bharathidasan-studies/</value>
+      <webElementGuid>be6f997d-6976-46d9-963f-b003fc0f1b47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>554d17c8-f3e8-40e9-9454-c1325c4609f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bharathidasan Studies</value>
+      <webElementGuid>9ce020ea-6745-4d65-8be5-c95c9673048a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/div[@class=&quot;wrapper row3&quot;]/main[@class=&quot;hoc container clear&quot;]/div[@id=&quot;wrapper&quot;]/div[@class=&quot;content three_quarter&quot;]/ul[@class=&quot;list-group1&quot;]/li[@class=&quot;list-group1-item&quot;]/a[@class=&quot;linktext&quot;]</value>
+      <webElementGuid>39cacd8c-3511-4ff5-a3e0-126608c3f853</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[2]/ul/li[3]/a</value>
+      <webElementGuid>eac92345-f14a-48be-b70d-3f11ec7feb1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Bharathidasan Studies')]</value>
+      <webElementGuid>d3c39cff-a07e-4bf1-a256-55bdbfa691e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='பாரதியார் இருக்கை'])[1]/following::a[1]</value>
+      <webElementGuid>3697c848-365c-46cf-97a7-953c04805b35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bioinorganic Chemistry'])[1]/preceding::a[1]</value>
+      <webElementGuid>fc2789e4-9be4-4d29-b1ff-d65d0bdcf099</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bharathidasan University Technology Park'])[1]/preceding::a[2]</value>
+      <webElementGuid>287ad285-3caf-4af8-8ef9-4023db393125</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bharathidasan Studies']/parent::*</value>
+      <webElementGuid>a8f2a935-8c84-484a-8c79-9a3d05e09880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'bharathidasan-studies/')]</value>
+      <webElementGuid>04fc86f7-55a8-409b-8f2a-203c70414fa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div[2]/ul/li[3]/a</value>
+      <webElementGuid>78439ed4-bc2a-4337-8e39-fd2f8b43c20d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'bharathidasan-studies/' and (text() = 'Bharathidasan Studies' or . = 'Bharathidasan Studies')]</value>
+      <webElementGuid>9f815c75-ccce-4f34-b34d-7defb27c9d7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

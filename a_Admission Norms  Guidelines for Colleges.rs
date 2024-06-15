@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Admission Norms  Guidelines for Colleges</name>
+   <tag></tag>
+   <elementGuidId>63aaaa3b-16f8-4b7e-8ec8-574e075c9330</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='wrapper']/tbody/tr/td/a[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Admission Norms / Guidelines for Colleges&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>09a52640-4ad6-4db0-9869-fad630cf0526</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>//www.bdu.ac.in//academics/syllabi.php#norms</value>
+      <webElementGuid>3fb195c9-5f6a-4b73-b0c6-095276f00a81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>43ed6909-668c-4b9d-9e17-b461a5d4f197</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Admission Norms / Guidelines for Colleges</value>
+      <webElementGuid>ba9177c4-d99f-4ff6-bb2d-5bd8150ebbdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/div[@class=&quot;wrapper row3&quot;]/main[@class=&quot;hoc container clear&quot;]/div[@id=&quot;wrapper&quot;]/div[@class=&quot;sidebar one_quarter first&quot;]/table[@id=&quot;wrapper&quot;]/tbody[1]/tr[1]/td[1]/a[@class=&quot;link&quot;]</value>
+      <webElementGuid>ae70430b-8b18-469b-bc90-82f4aa06cc2f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='wrapper']/tbody/tr/td/a[8]</value>
+      <webElementGuid>3378f33d-981f-4704-b9a3-60269f53fcd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Admission Norms / Guidelines for Colleges')]</value>
+      <webElementGuid>9be291bb-fc87-4de6-8569-44be323984e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Financial Aid'])[2]/following::a[1]</value>
+      <webElementGuid>afe648a6-fa38-475b-9ab4-3e8ed81d59bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='D.Litt. / D.Sc. Admissions'])[1]/following::a[2]</value>
+      <webElementGuid>b90409af-7bd9-4dc9-8152-2ebf6a7e8cf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='D.Litt./D.Sc. Admissions'])[1]/preceding::a[1]</value>
+      <webElementGuid>ec8cf718-a264-404e-8f07-17b9e6b0ef86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='D.Litt/D.Sc. Application Form'])[1]/preceding::a[1]</value>
+      <webElementGuid>cda99776-77c6-4d29-b1dc-ffde038864a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Admission Norms / Guidelines for Colleges']/parent::*</value>
+      <webElementGuid>c7fbc1f4-345b-414c-8295-ca39b0aa9920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '//www.bdu.ac.in//academics/syllabi.php#norms')]</value>
+      <webElementGuid>5da4cf2f-4c30-457f-ade5-a343cd855792</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[8]</value>
+      <webElementGuid>e0f7d4d0-be2c-482f-abbe-d988f5f657eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '//www.bdu.ac.in//academics/syllabi.php#norms' and (text() = 'Admission Norms / Guidelines for Colleges' or . = 'Admission Norms / Guidelines for Colleges')]</value>
+      <webElementGuid>af4f434d-1859-4b35-b49c-8ffb6438f916</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

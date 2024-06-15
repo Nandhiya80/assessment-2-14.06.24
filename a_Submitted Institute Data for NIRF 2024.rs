@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Submitted Institute Data for NIRF 2024</name>
+   <tag></tag>
+   <elementGuidId>fb90d32d-a41e-4aaf-83a0-c538bf3b174f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#alink</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='alink']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Submitted Institute Data for NIRF 2024&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>68ad3573-27b7-4ec4-95e5-aafee610943b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>assets/docs/nirf/2024/Submitted-Institute-Data-for-NIRF-2024.pdf</value>
+      <webElementGuid>8da6aef5-e9fa-418d-af92-852a0b6081e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>15993ebb-a57d-47d6-af21-8a658ac25758</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>alink</value>
+      <webElementGuid>9fc48330-4cb7-4f75-9d1d-5dcd59ef8228</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Submitted Institute Data for NIRF 2024</value>
+      <webElementGuid>1bed5e4a-5cbd-4f23-b613-298394aeb158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;container my-3&quot;]/div[@class=&quot;row p-4 pb-2 pe-lg-0 pt-lg-2 align-items-center rounded-3 border shadow-lg&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/a[@id=&quot;alink&quot;]</value>
+      <webElementGuid>f42edcae-fa38-4c5a-875b-f29017b13cf5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='alink']</value>
+      <webElementGuid>9c304f83-edaf-4f65-9c53-1516f5bc15a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Submitted Institute Data for NIRF 2024')]</value>
+      <webElementGuid>aff119e6-5d30-40ba-bcc3-9e56ba52630c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Submitted by Bharathidasan University for NIRF 2024'])[1]/following::a[1]</value>
+      <webElementGuid>ec721269-b9c0-4994-a02b-b4bc335be4b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='National Institutional Ranking Framework (NIRF)'])[2]/following::a[1]</value>
+      <webElementGuid>8d221d94-d281-4daa-8e88-c978d1bea554</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NIRF 2023'])[1]/preceding::a[1]</value>
+      <webElementGuid>64c701e1-b786-475f-9ab0-427f46d814a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'assets/docs/nirf/2024/Submitted-Institute-Data-for-NIRF-2024.pdf')]</value>
+      <webElementGuid>be004b52-6be9-488f-a990-9cc3ee108b0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>04b4a0f8-175f-4211-b697-9c5e641e1516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'assets/docs/nirf/2024/Submitted-Institute-Data-for-NIRF-2024.pdf' and @id = 'alink' and (text() = ' Submitted Institute Data for NIRF 2024' or . = ' Submitted Institute Data for NIRF 2024')]</value>
+      <webElementGuid>add52dd6-f0d8-4be6-8211-1cb5fa243b3b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

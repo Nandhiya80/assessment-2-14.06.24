@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Admission to PG Extn. Centre</name>
+   <tag></tag>
+   <elementGuidId>22ba3c89-f43b-4f41-8eed-34344220f404</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='wrapper']/tbody/tr/td/a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Admission to PG Extn. Centre&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>227a54d4-358c-4344-ac8a-812b904ae8b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>pg-exten-centre.php</value>
+      <webElementGuid>6f2387a2-94ac-447b-9629-5f6c5b97d4a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>64f805db-ab80-4d8e-bf07-505dd2bc1b7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Admission to PG Extn. Centre</value>
+      <webElementGuid>532013de-62b9-4f5e-997b-3149d629c180</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/div[@class=&quot;wrapper row3&quot;]/main[@class=&quot;hoc container clear&quot;]/div[@id=&quot;wrapper&quot;]/div[@class=&quot;sidebar one_quarter first&quot;]/table[@id=&quot;wrapper&quot;]/tbody[1]/tr[1]/td[1]/a[@class=&quot;link&quot;]</value>
+      <webElementGuid>ba5c2a72-2338-4b5f-8689-a2dc66fe62c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='wrapper']/tbody/tr/td/a[3]</value>
+      <webElementGuid>d729e73f-f348-42d5-849a-536a936c604e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Admission to PG Extn. Centre')]</value>
+      <webElementGuid>e1a9a5e9-e88e-4b72-ae40-bcd1c52727a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Programmes Offered'])[1]/following::a[1]</value>
+      <webElementGuid>0fe84ce9-fa59-4141-aa17-8137aadf29d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Univ. Dept. Admission Notification'])[1]/following::a[2]</value>
+      <webElementGuid>b1a005a5-e081-4a5a-85bf-67bc6b3283c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='M.Phil. Admissions'])[1]/preceding::a[1]</value>
+      <webElementGuid>a310a73a-8823-43d6-a732-006c328db0d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ph.D. Admissions'])[1]/preceding::a[2]</value>
+      <webElementGuid>07d51852-5304-48b9-9332-424053556845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Admission to PG Extn. Centre']/parent::*</value>
+      <webElementGuid>ceeb8a3a-03c9-4f94-9ce4-58033b78214c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'pg-exten-centre.php')])[2]</value>
+      <webElementGuid>f860c862-0d40-4344-87eb-bda43c6fd158</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>f11e385a-0902-405f-8554-b86b98d3efc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'pg-exten-centre.php' and (text() = 'Admission to PG Extn. Centre' or . = 'Admission to PG Extn. Centre')]</value>
+      <webElementGuid>f93f2d50-38a1-44b6-8e1f-d1ed8a086508</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

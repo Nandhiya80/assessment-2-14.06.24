@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_BDU Hostels</name>
+   <tag></tag>
+   <elementGuidId>c04ff5dd-bf46-4261-ad4c-6cf37479e5a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//footer[@id='footer']/div[2]/nav/ul/li[7]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; BDU Hostels&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>91061c88-81dc-412d-bf94-f0ffdd415434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>//www.bdu.ac.in/campus-life/hostels.php</value>
+      <webElementGuid>03459823-87f9-4605-a1aa-4c73718f6fcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> BDU Hostels</value>
+      <webElementGuid>eddd171a-8aba-4946-902e-7ce6f0067110</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer&quot;)/div[@class=&quot;one_quarter&quot;]/nav[1]/ul[@class=&quot;nospace&quot;]/li[@class=&quot;footer-link&quot;]/a[1]</value>
+      <webElementGuid>e78a2e86-be44-4f27-a050-fc51c71c6ac4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//footer[@id='footer']/div[2]/nav/ul/li[7]/a</value>
+      <webElementGuid>f423335d-27c0-43ae-9224-ac4649cc5d75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'BDU Hostels')]</value>
+      <webElementGuid>bd716e43-f07a-43f6-85f8-49e44a90c988</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '//www.bdu.ac.in/campus-life/hostels.php')])[2]</value>
+      <webElementGuid>cf6adcf2-f76a-4569-ad0e-2c0ca24c9686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/nav/ul/li[7]/a</value>
+      <webElementGuid>06ea2886-d3b2-4643-b4c9-9e4916f29fc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '//www.bdu.ac.in/campus-life/hostels.php' and (text() = ' BDU Hostels' or . = ' BDU Hostels')]</value>
+      <webElementGuid>8dd3739b-36d8-474c-8ebe-57f4d5cc4c90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

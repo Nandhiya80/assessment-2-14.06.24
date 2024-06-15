@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Academic Calendar</name>
+   <tag></tag>
+   <elementGuidId>53ecbad6-7132-426e-abcf-a0fce7b41179</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='wrapper']/tbody/tr/td/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Academic Calendar&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d62d0f64-31f1-495c-95d4-cf4992991fc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>//www.bdu.ac.in/academics/academic-calendar.php</value>
+      <webElementGuid>6e2da7dd-bda2-4a7f-83a4-9f3b54a55969</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Academic Calendar </value>
+      <webElementGuid>db55dd2d-8635-4368-94d2-64b96abadf24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/div[@class=&quot;wrapper row3&quot;]/main[@class=&quot;hoc container clear&quot;]/div[@id=&quot;wrapper&quot;]/div[@class=&quot;sidebar one_quarter first&quot;]/table[@id=&quot;wrapper&quot;]/tbody[1]/tr[1]/td[1]/a[@class=&quot;link&quot;]</value>
+      <webElementGuid>f5c2f120-7ba2-4e0e-9839-f83db9715b59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>6106a52a-60f0-48f6-abbf-cfee36a47c6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='wrapper']/tbody/tr/td/a[2]</value>
+      <webElementGuid>7653433c-88c2-4f1e-854f-edf0ba03da2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Academic Calendar')])[2]</value>
+      <webElementGuid>3cfcb24c-f47e-457b-bf31-2acd394793b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Council for College &amp; Curriculum Development (CCCD)'])[1]/following::a[1]</value>
+      <webElementGuid>1adba719-eac5-4c3c-821c-0e4904bb91e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Academics'])[4]/following::a[2]</value>
+      <webElementGuid>9d11a46b-2a9f-47bb-b86d-1587183762c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uniform Span Period for UG &amp; PG'])[1]/preceding::a[1]</value>
+      <webElementGuid>04c913fb-9364-4da4-98c0-d0b999a85b1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regulations'])[3]/preceding::a[2]</value>
+      <webElementGuid>2eeea596-6a9c-4f11-b921-8255e02fd78c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '//www.bdu.ac.in/academics/academic-calendar.php')])[2]</value>
+      <webElementGuid>fdd1dffc-a36d-4308-9b84-2ef363b1a43a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a[2]</value>
+      <webElementGuid>c9717867-4207-4a02-aa41-52fb87f65445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '//www.bdu.ac.in/academics/academic-calendar.php' and (text() = 'Academic Calendar ' or . = 'Academic Calendar ')]</value>
+      <webElementGuid>ccdc3715-61ef-4c91-8e8d-8b5d7f9080c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='mainav']/ul/li[4]/ul/li[5]/a</value>
+      <webElementGuid>5bca05c2-3a74-4d64-a4d5-9d5756059f3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Academic Calendar')]</value>
+      <webElementGuid>fcddb345-6897-4cc4-bbf7-8de2f14e7a40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Council for College and Curriculum Development (CCCD)'])[1]/following::a[1]</value>
+      <webElementGuid>f5ed9ec4-23f5-48d8-9557-0a36f8abacb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PG Extension Centre'])[1]/following::a[2]</value>
+      <webElementGuid>cc041a10-274f-41d1-8a99-a2e8856b8b79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regulations'])[1]/preceding::a[1]</value>
+      <webElementGuid>45da0e03-40da-48f5-9707-a6e53e75379f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Colleges and Affiliation'])[1]/preceding::a[2]</value>
+      <webElementGuid>2f4e30a3-ba5c-4f05-9c7e-9b0521075900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Academic Calendar']/parent::*</value>
+      <webElementGuid>236fee7d-3645-452e-a46f-e55bb5b5c20e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '//www.bdu.ac.in/academics/academic-calendar.php')]</value>
+      <webElementGuid>15e29c41-5535-4680-8aef-74b8ddb723fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li[5]/a</value>
+      <webElementGuid>d41d133c-e43d-444b-a3e2-1e3b05056800</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '//www.bdu.ac.in/academics/academic-calendar.php' and (text() = 'Academic Calendar' or . = 'Academic Calendar')]</value>
+      <webElementGuid>0fb73df5-e5ed-4a6d-bc44-a5daf2a10e43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_BDU Univ. Depts - Admissions (2024-2025)</name>
+   <tag></tag>
+   <elementGuidId>4278c97d-140e-4e7a-9301-28fc3817b817</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wierd_box']/table/tbody/tr[2]/td/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;BDU Univ. Depts - Admissions (2024-2025)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1fae031b-4cc1-4f19-b4d0-645c8d7ca3d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://oms.bdu.ac.in/admissions/</value>
+      <webElementGuid>576ad611-6839-4753-85fd-3aed945d1629</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BDU Univ. Depts - Admissions (2024-2025)</value>
+      <webElementGuid>f92d8f8d-da31-4e3b-ba83-aec5ce69841c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wierd_box&quot;)/table[1]/tbody[1]/tr[2]/td[1]/a[1]</value>
+      <webElementGuid>1c132ee5-11f4-4c50-ae2c-52ec7f68bcf8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wierd_box']/table/tbody/tr[2]/td/a</value>
+      <webElementGuid>fb713760-5e1b-42a2-9c11-49fbf8a5ad0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'BDU Univ. Depts - Admissions (2024-2025)')]</value>
+      <webElementGuid>a23ad2d1-c0b8-4fb1-8bbc-f585caf2434b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Important Notifications'])[1]/following::a[1]</value>
+      <webElementGuid>6de3c045-951f-4d7f-84ac-dd150826b7a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='st'])[1]/following::a[1]</value>
+      <webElementGuid>3099a0cd-f5fa-4ee4-91b6-ef36ae7c7f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About the University'])[1]/preceding::a[3]</value>
+      <webElementGuid>28c649ff-c0cc-4d45-8471-7dc34c7a21ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BDU Univ. Depts - Admissions (2024-2025)']/parent::*</value>
+      <webElementGuid>a6b758f9-8d0f-4e5b-94ff-3b7f4f20b1a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://oms.bdu.ac.in/admissions/')]</value>
+      <webElementGuid>f2fcd510-35eb-4e0d-a5b1-505877a31db4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>96011ad2-93a9-4051-b4b6-1625c4eca09e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://oms.bdu.ac.in/admissions/' and (text() = 'BDU Univ. Depts - Admissions (2024-2025)' or . = 'BDU Univ. Depts - Admissions (2024-2025)')]</value>
+      <webElementGuid>84bf2f15-4097-4042-a634-084157a1ecdb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

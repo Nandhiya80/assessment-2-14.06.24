@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Anti-Harassment Cell (General)</name>
+   <tag></tag>
+   <elementGuidId>69cbc367-016b-44e1-91aa-7e80099376a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//footer[@id='footer']/div/nav/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Anti-Harassment Cell (General)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>97ba6d6a-5c85-4baa-bc46-7b9df88c44da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>//www.bdu.ac.in/cells/anti-harassment-cell.php</value>
+      <webElementGuid>063e2d04-4191-4ac9-8e5c-8465b632ea26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Anti-Harassment Cell (General)</value>
+      <webElementGuid>6dfd4d57-8d69-487f-987c-300e1c2af734</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;footer&quot;)/div[@class=&quot;one_quarter first&quot;]/nav[1]/ul[@class=&quot;nospace&quot;]/li[@class=&quot;footer-link&quot;]/a[1]</value>
+      <webElementGuid>d96d22b5-fbf9-49e3-b20e-30b8ff5d5e2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//footer[@id='footer']/div/nav/ul/li[3]/a</value>
+      <webElementGuid>ae48832b-d710-4262-81d4-2fbcf18612e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Anti-Harassment Cell (General)')]</value>
+      <webElementGuid>f22359c5-8dea-4ac8-91a4-59bc442f6354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '//www.bdu.ac.in/cells/anti-harassment-cell.php')]</value>
+      <webElementGuid>8882ddd6-ad24-4546-80c9-af312472ddcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/nav/ul/li[3]/a</value>
+      <webElementGuid>7cff08d4-acf0-4ec9-9ddd-b2df973a1712</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '//www.bdu.ac.in/cells/anti-harassment-cell.php' and (text() = ' Anti-Harassment Cell (General)' or . = ' Anti-Harassment Cell (General)')]</value>
+      <webElementGuid>3da365a8-1e06-4805-9f7d-1ec7e732df5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

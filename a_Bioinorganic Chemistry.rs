@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Bioinorganic Chemistry</name>
+   <tag></tag>
+   <elementGuidId>26bc4127-ecd8-4cbd-a2e7-0d84a9f96f52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div[2]/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Bioinorganic Chemistry&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6a8ceb64-2593-46cc-90df-b69a05260a56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>linktext</value>
+      <webElementGuid>1082df00-3589-4ee1-8eed-98d705377a50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>bioinorganic-chemistry/</value>
+      <webElementGuid>b573b5ef-802d-4b42-a98a-f7d7b93d3920</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>fc533cb7-213b-4a13-bae5-37fbde879b0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bioinorganic Chemistry</value>
+      <webElementGuid>7953e739-6f45-4875-82ff-359b323dee9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/div[@class=&quot;wrapper row3&quot;]/main[@class=&quot;hoc container clear&quot;]/div[@id=&quot;wrapper&quot;]/div[@class=&quot;content three_quarter&quot;]/ul[@class=&quot;list-group1&quot;]/li[@class=&quot;list-group1-item&quot;]/a[@class=&quot;linktext&quot;]</value>
+      <webElementGuid>5888e008-c568-4714-999d-8fa13884342d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[2]/ul/li[4]/a</value>
+      <webElementGuid>4aabcb02-eaf2-4f96-b3a0-095daffb14d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Bioinorganic Chemistry')]</value>
+      <webElementGuid>8a179f18-ca1e-4fee-b737-8fc2b23d6165</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bharathidasan Studies'])[1]/following::a[1]</value>
+      <webElementGuid>5c15c2de-6624-49dd-afeb-1528c35de3f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='பாரதியார் இருக்கை'])[1]/following::a[2]</value>
+      <webElementGuid>86da5411-b892-48d4-b817-9bb2c8b0546e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bharathidasan University Technology Park'])[1]/preceding::a[1]</value>
+      <webElementGuid>7b7ba0e1-7e72-4fa3-b3b1-97c52301f4de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Canadian Studies'])[1]/preceding::a[2]</value>
+      <webElementGuid>aaadc23c-0e86-4892-9930-af8ed6c8a397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bioinorganic Chemistry']/parent::*</value>
+      <webElementGuid>83813694-e369-454c-ace4-10b1cbfe0fb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'bioinorganic-chemistry/')]</value>
+      <webElementGuid>36accc45-0111-407a-80e1-9a62c45626f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div[2]/ul/li[4]/a</value>
+      <webElementGuid>4174bad8-cecb-4438-8566-2ecb6e7b1e6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'bioinorganic-chemistry/' and (text() = 'Bioinorganic Chemistry' or . = 'Bioinorganic Chemistry')]</value>
+      <webElementGuid>a30ac0ad-263a-4f0c-8e4c-626c143ec8a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

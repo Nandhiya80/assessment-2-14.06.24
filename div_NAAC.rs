@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_NAAC</name>
+   <tag></tag>
+   <elementGuidId>935ddbcc-67b6-4a65-885a-c442aac8ec1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.icon-box.l-bg-cyan</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='featured-services']/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#featured-services div >> internal:has-text=&quot;NAAC&quot;i >> nth=3</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>96b00e83-c766-49d5-a840-7028ae605317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-box l-bg-cyan</value>
+      <webElementGuid>b2e077cc-4681-432c-a997-f10a80329e14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aos</name>
+      <type>Main</type>
+      <value>fade-up</value>
+      <webElementGuid>e0e57cbd-b955-48be-9586-9a81d11b7d66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aos-delay</name>
+      <type>Main</type>
+      <value>200</value>
+      <webElementGuid>b2b6a168-6dfd-43b6-a235-ba465fd6dce1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+               
+              NAAC
+                          </value>
+      <webElementGuid>f33b449b-18d6-4c1c-8fb5-194f941a2b1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;featured-services&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-lg-3  align-items-stretch mb-5 mb-lg-0&quot;]/div[@class=&quot;icon-box l-bg-cyan&quot;]</value>
+      <webElementGuid>e3f1f387-34f2-46cd-a7f1-ca0ab8c68b86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='featured-services']/div/div/div[2]/div</value>
+      <webElementGuid>157fbb3a-e9ba-4658-956a-2fcd10353675</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Composition of IQAC'])[2]/following::div[2]</value>
+      <webElementGuid>5c40d62e-c18c-4e57-ab64-b31fc445d03b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::div[8]</value>
+      <webElementGuid>b27ede1b-2e90-44a2-ad82-86802c2c46c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AQAR'])[2]/preceding::div[3]</value>
+      <webElementGuid>df9d19c2-446e-4f70-8b8d-ec6e7c3e627c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div[2]/div</value>
+      <webElementGuid>f8502680-6e94-4cea-bfe7-0df716861a46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+               
+              NAAC
+                          ' or . = '
+               
+              NAAC
+                          ')]</value>
+      <webElementGuid>89c3ac9a-4474-4a70-b3ff-5cd3a75676ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Composition of IQAC_fas fa-check-circle</name>
+   <tag></tag>
+   <elementGuidId>45dfa4d9-6296-46cf-a22d-75964467c061</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-check-circle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='featured-services']/div/div/div[2]/div/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#featured-services i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>84c444db-871d-4e80-b4c0-fd99822a11b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-check-circle</value>
+      <webElementGuid>3d4850f2-4e46-45cf-9235-b8687c40b2e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;featured-services&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-lg-3  align-items-stretch mb-5 mb-lg-0&quot;]/div[@class=&quot;icon-box l-bg-cyan&quot;]/div[@class=&quot;icon&quot;]/i[@class=&quot;fas fa-check-circle&quot;]</value>
+      <webElementGuid>832c1a74-2005-476a-9438-854a39b67671</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='featured-services']/div/div/div[2]/div/div/i</value>
+      <webElementGuid>5a42250d-3a2b-49f5-8372-b24ddaebb1e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/i</value>
+      <webElementGuid>d8c0687f-d42b-4509-8882-7596553e150f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
